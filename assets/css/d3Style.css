@@ -3,7 +3,6 @@
   font-size: 16px;
   text-anchor: middle;
 }
-
 .active {
   font-weight: bold;
   fill: #000;
@@ -31,7 +30,7 @@
 }
 
 .stateCircle {
-  fill: #89bdd3;
+  fill: #4f3e52; 
   stroke: #e3e3e3;
 }
 
